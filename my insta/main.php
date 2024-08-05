@@ -10,7 +10,9 @@
 	{
 		$post_id = $_SESSION['comment_btn'];
 		header('location:comment_fetch.php');
-	}				
+	}
+	
+	//test
 	
 ?>
 <html>
